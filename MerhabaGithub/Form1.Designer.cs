@@ -36,7 +36,7 @@
             // label1
             // 
             label1.Font = new Font("Segoe UI", 26.25F, FontStyle.Bold, GraphicsUnit.Point, 162);
-            label1.Location = new Point(1, 9);
+            label1.Location = new Point(-5, 220);
             label1.Name = "label1";
             label1.Size = new Size(424, 69);
             label1.TabIndex = 0;
@@ -47,9 +47,9 @@
             // pictureBox1
             // 
             pictureBox1.Image = Properties.Resources.githubpng;
-            pictureBox1.Location = new Point(130, 127);
+            pictureBox1.Location = new Point(68, 12);
             pictureBox1.Name = "pictureBox1";
-            pictureBox1.Size = new Size(226, 175);
+            pictureBox1.Size = new Size(230, 205);
             pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
             pictureBox1.TabIndex = 1;
             pictureBox1.TabStop = false;
