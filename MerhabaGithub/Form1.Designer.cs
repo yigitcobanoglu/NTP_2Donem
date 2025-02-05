@@ -47,7 +47,7 @@
             // pictureBox1
             // 
             pictureBox1.Image = Properties.Resources.githubpng;
-            pictureBox1.Location = new Point(92, 99);
+            pictureBox1.Location = new Point(130, 127);
             pictureBox1.Name = "pictureBox1";
             pictureBox1.Size = new Size(226, 175);
             pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
