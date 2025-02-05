@@ -47,7 +47,7 @@
             // pictureBox1
             // 
             pictureBox1.Image = Properties.Resources.githubpng;
-            pictureBox1.Location = new Point(92, 81);
+            pictureBox1.Location = new Point(92, 99);
             pictureBox1.Name = "pictureBox1";
             pictureBox1.Size = new Size(226, 175);
             pictureBox1.SizeMode = PictureBoxSizeMode.StretchImage;
@@ -58,6 +58,7 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
+            BackColor = SystemColors.ActiveCaption;
             ClientSize = new Size(431, 540);
             Controls.Add(pictureBox1);
             Controls.Add(label1);
